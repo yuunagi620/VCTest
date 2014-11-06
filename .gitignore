@@ -26,7 +26,7 @@ Thumbs.db
 [Dd]ebug/
 [Dd]ebug.win32/
 *.sbr
-*.sdf
+#*.sdf
 obj/
 [Rr]elease/
 [Rr]elease.win32/
